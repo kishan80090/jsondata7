@@ -1,0 +1,102 @@
+[
+    {
+        "ques_no": "1",
+        "question": "What does 'CPU' stand for?",
+        "a": "Central Process Unit",
+        "b": "Central Processing Unit",
+        "c": "Computer Processing Unit",
+        "d": "Control Processing Unit",
+        "correct": "b",
+        "answer": "e"
+    },
+    {
+        "ques_no": "2",
+        "question": "Which device is used to print on paper?",
+        "a": "Scanner",
+        "b": "Monitor",
+        "c": "Printer",
+        "d": "Speaker",
+        "correct": "c",
+        "answer": "e"
+    },
+    {
+        "ques_no": "3",
+        "question": "What does 'Wi-Fi' allow you to do?",
+        "a": "Print documents",
+        "b": "Connect to the internet wirelessly",
+        "c": "Listen to music",
+        "d": "Make a phone call",
+        "correct": "b",
+        "answer": "e"
+    },
+    {
+        "ques_no": "4",
+        "question": "Which of the following is a web browser?",
+        "a": "Google",
+        "b": "YouTube",
+        "c": "Chrome",
+        "d": "Windows",
+        "correct": "c",
+        "answer": "e"
+    },
+    {
+        "ques_no": "5",
+        "question": "Which company makes the iPhone?",
+        "a": "Microsoft",
+        "b": "Google",
+        "c": "Apple",
+        "d": "Samsung",
+        "correct": "c",
+        "answer": "e"
+    },
+    {
+        "ques_no": "6",
+        "question": "What is the brain of the computer?",
+        "a": "RAM",
+        "b": "Hard Disk",
+        "c": "Monitor",
+        "d": "CPU",
+        "correct": "d",
+        "answer": "e"
+    },
+    {
+        "ques_no": "7",
+        "question": "Which one is an input device?",
+        "a": "Printer",
+        "b": "Speaker",
+        "c": "Mouse",
+        "d": "Monitor",
+        "correct": "c",
+        "answer": "e"
+    },
+    {
+        "ques_no": "8",
+        "question": "What does USB stand for?",
+        "a": "Universal Serial Bus",
+        "b": "United Storage Bus",
+        "c": "Uniform Service Bus",
+        "d": "Universal System Block",
+        "correct": "a",
+        "answer": "e"
+    },
+    {
+        "ques_no": "9",
+        "question": "Which of these is an operating system?",
+        "a": "Intel",
+        "b": "Windows",
+        "c": "Google",
+        "d": "Bluetooth",
+        "correct": "b",
+        "answer": "e"
+    },
+    {
+        "ques_no": "10",
+        "question": "Which part of the computer displays the output?",
+        "a": "Keyboard",
+        "b": "Mouse",
+        "c": "CPU",
+        "d": "Monitor",
+        "correct": "d",
+        "answer": "e"
+    }
+]
